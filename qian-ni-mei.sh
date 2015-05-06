@@ -22,8 +22,8 @@
 
 # ----------------------------------------------
 # ----Your account confidential starts here-----
-user=""
-password=""
+user="chenjue6@sina.com"
+password="cj3151864"
 # ----Your account confidential ends here-------
 # ----------------------------------------------
 
